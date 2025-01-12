@@ -12,7 +12,7 @@ public class prisiicila {
         System.out.println("Ingrese un número del 1 al 7");
         dia= imput.nextInt();//lee el dia de la semana
 
-        switch (dia){
+        switch (dia) {
             case 1:
                 nombreDia = "Lunes";
                 break;
@@ -31,8 +31,5 @@ public class prisiicila {
             default: nombreDia = "Dato no valido";
         }
         System.out.println("El dia de la semana es: " + nombreDia);
-
-
     }
-
 }
