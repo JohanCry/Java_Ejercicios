@@ -9,8 +9,8 @@ public class Orden_de_prioridad {
         System.out.println("Ingrese un número para realizar las operaciones");
         variable = scanner.nextInt();
         //primera operación
-        System.out.println("Primera operacion");
-        resultado = -6 + variable * 5;
+        System.out.println("Primera operacion_asd");
+        resultado = -6 + variable * 5; // operacion xd
         System.out.println("El resultado de (-6 + x * 5) es: " + resultado);
         //segunda operación
         System.out.println("Segunda operacion");
